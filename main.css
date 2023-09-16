@@ -1,0 +1,81 @@
+html {
+    margin: 0%;
+}
+
+body {
+    padding: 10px;
+    contain: content;
+}
+
+header {
+    width: 100%;
+    height: 4vh;
+}
+
+h1 {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 2px;
+    border-radius: 20px;
+    background-color: rgb(211,211,211);
+}
+
+.img {
+    border: 0in;
+    border-radius: 20px;
+    margin: 20px;
+    padding: 20px;
+    height: 420px;
+    background-image: url("ai.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.img2 {
+    border: 0in;
+    border-radius: 20px;
+    margin: 20px;
+    padding: 20px;
+    height: 210px;
+    width: 50%;
+    float: left;
+    background-image: url("slk.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+.container {
+    display:flex;
+}
+
+.img3 {
+    border: 0in;
+    border-radius: 20px;
+    margin: 20px;
+    padding: 20px;
+    height: 210px;
+    width: 44%;
+    float: left;
+    background-image: url("roblox1.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.img4 {
+    border: 0in;
+    border-radius: 20px;
+    margin: 20px;
+    padding: 20px;
+    height: 210px;
+    width: 44%;
+    float: right;
+    background-image: url("roblox3.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
